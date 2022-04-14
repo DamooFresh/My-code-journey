@@ -1,0 +1,76 @@
+#nav-bar{
+    background: #000b76;
+    color: rgb(255, 255, 255);
+    font-size: 1rem;
+    margin-bottom: 0px;
+}
+.nav-logo{
+    height: 50px;
+    width: 50px;
+}
+.navvv{
+   
+    margin-top: 20px;
+    height: 30px;
+    /* margin-right: 20px; */
+}
+.navv{
+    font-size: 1rem;
+    /* padding: 20px 40px;*/
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.home-content{
+    display: flex;
+}
+.planett{
+    
+    width: 500px;
+    height: 600px;
+  
+}
+.heading{
+    margin: 10% 2% 7%;
+}
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 5rem;
+    color: rgb(255, 255, 255);
+}
+.p-dd{
+    color: #8193b2;
+    font-size: 1.9rem;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.email-in{
+    height: 47px;
+    width: 55%;
+    border-radius: 10px;
+    border: hidden;
+    }
+hr{
+    margin: 0px;
+    /* border-style: none;
+     border-top-style: dotted;
+    border-width: 60px; */
+
+}
+svg{
+    margin: 0px;
+}    
+table{
+   border-collapse: separate;
+   border-spacing: 60px 0px;
+   position: absolute;
+   bottom: -160px;
+   left: -36px;
+}
+th{
+    color: rgb(255, 255, 255);
+}
+
+td{
+    color: #8193b2;
+}
